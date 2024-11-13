@@ -95,6 +95,7 @@
     }
   ],
   "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicPropertyPathList": [],
   "dynamicTriggerPathList": [],
   "hideCard": false,
   "iconSVG": "https://appcdn.appsmith.com/static/media/icon.9e3d67c0af9c0bd092dc56240314e18a.svg",
@@ -111,6 +112,7 @@
   "mobileLeftColumn": 1,
   "mobileRightColumn": 25,
   "mobileTopRow": 2,
+  "onTabSelected": "{{}}",
   "originalBottomRow": 55,
   "originalTopRow": 9,
   "parentColumnSpace": 6.42431640625,
